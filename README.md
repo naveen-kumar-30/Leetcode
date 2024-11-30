@@ -21,6 +21,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [1899-count-items-matching-a-rule](https://github.com/naveen-kumar-30/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2886-faulty-keyboard](https://github.com/naveen-kumar-30/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/naveen-kumar-30/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
+## Simulation
+|  |
+| ------- |
+| [2886-faulty-keyboard](https://github.com/naveen-kumar-30/Leetcode/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
