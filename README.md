@@ -39,6 +39,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Binary Search
 |  |
 | ------- |
