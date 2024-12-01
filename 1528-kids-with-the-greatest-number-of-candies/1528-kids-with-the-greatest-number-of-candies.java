@@ -5,8 +5,7 @@ class Solution {
              max = Math.max(i,max);
         }
         max-=extraCandies;
-       // int max = (candies[0] +extraCandies);
-      //  System.out.println(max);
+    
         int count=0;
        List<Boolean>booleanList = new ArrayList<>();
         for(int i=0;i<candies.length;i++){
