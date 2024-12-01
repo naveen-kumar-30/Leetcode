@@ -56,6 +56,7 @@ Leetcode Solved Problem
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Binary Search
@@ -67,6 +68,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
