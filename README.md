@@ -72,6 +72,7 @@ Leetcode Solved Problem
 | [2752-sum-multiples](https://github.com/naveen-kumar-30/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2857-total-distance-traveled](https://github.com/naveen-kumar-30/Leetcode/tree/master/2857-total-distance-traveled) |
+| [3371-harshad-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/3371-harshad-number) |
 ## Binary Search
 |  |
 | ------- |
