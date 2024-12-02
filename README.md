@@ -56,6 +56,7 @@ Leetcode Solved Problem
 | [0007-reverse-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -75,6 +76,7 @@ Leetcode Solved Problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -104,6 +106,7 @@ Leetcode Solved Problem
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
