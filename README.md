@@ -31,6 +31,7 @@ Leetcode Solved Problem
 | ------- |
 | [0001-two-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/naveen-kumar-30/Leetcode/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -39,6 +40,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
@@ -53,6 +55,7 @@ Leetcode Solved Problem
 | ------- |
 | [0007-reverse-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1236-n-th-tribonacci-number) |
