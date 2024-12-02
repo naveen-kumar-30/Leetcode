@@ -58,6 +58,7 @@ Leetcode Solved Problem
 | [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -107,6 +108,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
