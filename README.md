@@ -6,7 +6,7 @@ Leetcode Solved Problem
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0001-two-sum) |
+| [0002-two-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/naveen-kumar-30/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0053-maximum-subarray) |
