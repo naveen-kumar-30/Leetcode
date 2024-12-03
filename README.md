@@ -19,12 +19,14 @@ Leetcode Solved Problem
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/naveen-kumar-30/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1899-count-items-matching-a-rule](https://github.com/naveen-kumar-30/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/naveen-kumar-30/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## String
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1899-count-items-matching-a-rule](https://github.com/naveen-kumar-30/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2886-faulty-keyboard](https://github.com/naveen-kumar-30/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
@@ -42,6 +44,7 @@ Leetcode Solved Problem
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +106,7 @@ Leetcode Solved Problem
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2857-total-distance-traveled](https://github.com/naveen-kumar-30/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2886-faulty-keyboard](https://github.com/naveen-kumar-30/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Greedy
