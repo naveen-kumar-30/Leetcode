@@ -72,6 +72,7 @@ Leetcode Solved Problem
 | [1642-water-bottles](https://github.com/naveen-kumar-30/Leetcode/tree/master/1642-water-bottles) |
 | [2083-three-divisors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/naveen-kumar-30/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
