@@ -13,6 +13,7 @@ Leetcode Solved Problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveen-kumar-30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/naveen-kumar-30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/naveen-kumar-30/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -70,6 +71,7 @@ Leetcode Solved Problem
 | [0009-palindrome-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/0326-power-of-three) |
@@ -160,11 +162,13 @@ Leetcode Solved Problem
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2507-number-of-common-factors) |
 ## String Matching
