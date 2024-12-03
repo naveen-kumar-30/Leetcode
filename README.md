@@ -83,6 +83,7 @@ Leetcode Solved Problem
 | [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/naveen-kumar-30/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/naveen-kumar-30/Leetcode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/naveen-kumar-30/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
