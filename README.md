@@ -80,7 +80,7 @@ Leetcode Solved Problem
 | [0326-power-of-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/naveen-kumar-30/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0507-perfect-number) |
-| [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
+| [1000-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/naveen-kumar-30/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/naveen-kumar-30/Leetcode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
