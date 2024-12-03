@@ -18,6 +18,7 @@ Leetcode Solved Problem
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/naveen-kumar-30/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1899-count-items-matching-a-rule](https://github.com/naveen-kumar-30/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -41,6 +42,7 @@ Leetcode Solved Problem
 | [0242-valid-anagram](https://github.com/naveen-kumar-30/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Two Pointers
 |  |
@@ -75,6 +77,7 @@ Leetcode Solved Problem
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/naveen-kumar-30/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/naveen-kumar-30/Leetcode/tree/master/1642-water-bottles) |
 | [2083-three-divisors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -148,6 +151,7 @@ Leetcode Solved Problem
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Enumeration
 |  |
