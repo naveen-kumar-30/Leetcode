@@ -18,6 +18,7 @@ Leetcode Solved Problem
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/naveen-kumar-30/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/naveen-kumar-30/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/naveen-kumar-30/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/naveen-kumar-30/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
