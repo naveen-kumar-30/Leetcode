@@ -82,6 +82,7 @@ Leetcode Solved Problem
 | [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/naveen-kumar-30/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/naveen-kumar-30/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0507-perfect-number) |
 | [1000-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
@@ -115,6 +116,7 @@ Leetcode Solved Problem
 | [0191-number-of-1-bits](https://github.com/naveen-kumar-30/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/naveen-kumar-30/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/naveen-kumar-30/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/naveen-kumar-30/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -152,6 +154,7 @@ Leetcode Solved Problem
 | ------- |
 | [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/naveen-kumar-30/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
