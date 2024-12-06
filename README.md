@@ -109,6 +109,7 @@ Leetcode Solved Problem
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/naveen-kumar-30/Leetcode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/naveen-kumar-30/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/naveen-kumar-30/Leetcode/tree/master/1642-water-bottles) |
@@ -139,6 +140,7 @@ Leetcode Solved Problem
 | [0461-hamming-distance](https://github.com/naveen-kumar-30/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/naveen-kumar-30/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
