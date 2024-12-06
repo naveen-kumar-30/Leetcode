@@ -51,6 +51,7 @@ Leetcode Solved Problem
 | [2414-move-pieces-to-obtain-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2886-faulty-keyboard](https://github.com/naveen-kumar-30/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/naveen-kumar-30/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3312-number-of-changing-keys](https://github.com/naveen-kumar-30/Leetcode/tree/master/3312-number-of-changing-keys) |
 ## Hash Table
 |  |
 | ------- |
