@@ -30,6 +30,7 @@ Leetcode Solved Problem
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/naveen-kumar-30/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/naveen-kumar-30/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/naveen-kumar-30/Leetcode/tree/master/3321-type-of-triangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/naveen-kumar-30/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
