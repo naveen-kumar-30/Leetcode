@@ -26,6 +26,7 @@ Leetcode Solved Problem
 | [1580-shuffle-the-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/naveen-kumar-30/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/naveen-kumar-30/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/naveen-kumar-30/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -163,6 +164,7 @@ Leetcode Solved Problem
 ## Matrix
 |  |
 | ------- |
+| [1791-richest-customer-wealth](https://github.com/naveen-kumar-30/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/naveen-kumar-30/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
