@@ -38,6 +38,7 @@ Leetcode Solved Problem
 | [0125-valid-palindrome](https://github.com/naveen-kumar-30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/naveen-kumar-30/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/naveen-kumar-30/Leetcode/tree/master/0412-fizz-buzz) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/naveen-kumar-30/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -57,6 +58,7 @@ Leetcode Solved Problem
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveen-kumar-30/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1500-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -184,6 +186,7 @@ Leetcode Solved Problem
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Enumeration
@@ -214,4 +217,8 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
