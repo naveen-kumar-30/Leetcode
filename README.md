@@ -56,6 +56,7 @@ Leetcode Solved Problem
 | [2886-faulty-keyboard](https://github.com/naveen-kumar-30/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/naveen-kumar-30/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/naveen-kumar-30/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-number-of-changing-keys](https://github.com/naveen-kumar-30/Leetcode/tree/master/3312-number-of-changing-keys) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ Leetcode Solved Problem
 | [1500-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Leetcode Solved Problem
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/naveen-kumar-30/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,6 +211,7 @@ Leetcode Solved Problem
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -242,4 +246,8 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
