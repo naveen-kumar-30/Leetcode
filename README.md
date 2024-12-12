@@ -33,6 +33,7 @@ Leetcode Solved Problem
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/naveen-kumar-30/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/naveen-kumar-30/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/naveen-kumar-30/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/naveen-kumar-30/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/3226-minimum-number-game) |
@@ -181,6 +182,7 @@ Leetcode Solved Problem
 | [0412-fizz-buzz](https://github.com/naveen-kumar-30/Leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/naveen-kumar-30/Leetcode/tree/master/1642-water-bottles) |
 | [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/naveen-kumar-30/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2857-total-distance-traveled](https://github.com/naveen-kumar-30/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2886-faulty-keyboard](https://github.com/naveen-kumar-30/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/3226-minimum-number-game) |
@@ -241,6 +243,7 @@ Leetcode Solved Problem
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/naveen-kumar-30/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/3226-minimum-number-game) |
 ## Queue
 |  |
