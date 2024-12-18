@@ -23,6 +23,7 @@ Leetcode Solved Problem
 | [1349-check-if-it-is-a-straight-line](https://github.com/naveen-kumar-30/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/naveen-kumar-30/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -278,4 +279,12 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0948-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
