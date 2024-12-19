@@ -18,6 +18,7 @@ Leetcode Solved Problem
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/naveen-kumar-30/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0948-sort-an-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/naveen-kumar-30/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/naveen-kumar-30/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -164,6 +165,7 @@ Leetcode Solved Problem
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveen-kumar-30/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -197,6 +199,7 @@ Leetcode Solved Problem
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2663-distribute-money-to-maximum-children](https://github.com/naveen-kumar-30/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Recursion
@@ -282,9 +285,11 @@ Leetcode Solved Problem
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
