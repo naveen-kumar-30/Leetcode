@@ -1,11 +1,10 @@
 class Solution {
-
     public boolean[] isArraySpecial(int[] nums, int[][] queries) {
+
         boolean[] ans = new boolean[queries.length];
         ArrayList<Integer> violatingIndices = new ArrayList<>();
 
         for (int i = 1; i < nums.length; i++) {
-            // same parity, found violating index
             if (nums[i] % 2 == nums[i - 1] % 2) {
                 violatingIndices.add(i);
             }
@@ -17,10 +16,9 @@ class Solution {
             int end = query[1];
 
             boolean foundViolatingIndex = binarySearch(
-                start + 1,
-                end,
-                violatingIndices
-            );
+                    start + 1,
+                    end,
+                    violatingIndices);
 
             if (foundViolatingIndex) {
                 ans[i] = false;
@@ -33,10 +31,9 @@ class Solution {
     }
 
     private boolean binarySearch(
-        int start,
-        int end,
-        ArrayList<Integer> violatingIndices
-    ) {
+            int start,
+            int end,
+            ArrayList<Integer> violatingIndices) {
         int left = 0;
         int right = violatingIndices.size() - 1;
         while (left <= right) {
@@ -44,10 +41,10 @@ class Solution {
             int violatingIndex = violatingIndices.get(mid);
 
             if (violatingIndex < start) {
-                // check right half
+         
                 left = mid + 1;
             } else if (violatingIndex > end) {
-                // check left half
+      
                 right = mid - 1;
             } else {
                 return true;
