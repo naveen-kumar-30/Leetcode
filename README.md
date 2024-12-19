@@ -43,6 +43,7 @@ Leetcode Solved Problem
 | [3226-minimum-number-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/naveen-kumar-30/Leetcode/tree/master/3321-type-of-triangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/naveen-kumar-30/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3427-special-array-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/3427-special-array-ii) |
 ## String
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Leetcode Solved Problem
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/naveen-kumar-30/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3427-special-array-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [3427-special-array-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/3427-special-array-ii) |
 ## Counting
 |  |
 | ------- |
