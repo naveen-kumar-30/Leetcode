@@ -86,6 +86,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/naveen-kumar-30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0344-reverse-string) |
@@ -334,4 +335,5 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveen-kumar-30/Leetcode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
