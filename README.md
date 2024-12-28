@@ -54,6 +54,7 @@ Leetcode Solved Problem
 | [0344-reverse-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/naveen-kumar-30/Leetcode/tree/master/0412-fizz-buzz) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/naveen-kumar-30/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1899-count-items-matching-a-rule](https://github.com/naveen-kumar-30/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -295,6 +296,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
