@@ -49,6 +49,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/naveen-kumar-30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/naveen-kumar-30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/naveen-kumar-30/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0344-reverse-string) |
@@ -295,6 +296,7 @@ Leetcode Solved Problem
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
