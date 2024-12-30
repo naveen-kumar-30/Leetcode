@@ -108,6 +108,7 @@ Leetcode Solved Problem
 | [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/naveen-kumar-30/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Math
 |  |
 | ------- |
