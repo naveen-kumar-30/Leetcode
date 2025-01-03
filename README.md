@@ -36,6 +36,7 @@ Leetcode Solved Problem
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/naveen-kumar-30/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/naveen-kumar-30/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/naveen-kumar-30/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -229,6 +230,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/3427-special-array-ii) |
 ## Counting
 |  |
