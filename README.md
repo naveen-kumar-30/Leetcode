@@ -39,6 +39,7 @@ Leetcode Solved Problem
 | [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/naveen-kumar-30/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/naveen-kumar-30/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/naveen-kumar-30/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -177,6 +178,7 @@ Leetcode Solved Problem
 | [0693-binary-number-with-alternating-bits](https://github.com/naveen-kumar-30/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/naveen-kumar-30/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Sorting
 |  |
 | ------- |
@@ -357,4 +359,8 @@ Leetcode Solved Problem
 | [0002-add-two-numbers](https://github.com/naveen-kumar-30/Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0086-partition-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/naveen-kumar-30/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
