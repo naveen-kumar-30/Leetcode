@@ -43,6 +43,7 @@ Leetcode Solved Problem
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/naveen-kumar-30/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/naveen-kumar-30/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2792-neighboring-bitwise-xor](https://github.com/naveen-kumar-30/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/naveen-kumar-30/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/naveen-kumar-30/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/3226-minimum-number-game) |
@@ -179,6 +180,7 @@ Leetcode Solved Problem
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/naveen-kumar-30/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/naveen-kumar-30/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
