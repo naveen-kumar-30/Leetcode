@@ -17,6 +17,7 @@ Leetcode Solved Problem
 | [0204-count-primes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/naveen-kumar-30/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -102,6 +103,7 @@ Leetcode Solved Problem
 | [0086-partition-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/naveen-kumar-30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0344-reverse-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/naveen-kumar-30/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -162,6 +164,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/naveen-kumar-30/Leetcode/tree/master/0441-arranging-coins) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/naveen-kumar-30/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -174,6 +177,7 @@ Leetcode Solved Problem
 | [0191-number-of-1-bits](https://github.com/naveen-kumar-30/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/naveen-kumar-30/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/naveen-kumar-30/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/naveen-kumar-30/Leetcode/tree/master/0476-number-complement) |
