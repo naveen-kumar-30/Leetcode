@@ -4,8 +4,8 @@ public:
      int n=height.size();
      int left=0;
      int right=n-1;
-     int left_max= height[left];
-     int right_max= height[right];
+     int left_max= 0;
+     int right_max= 0;
     int res=0;
      while(left<right){
         if(height[left]<height[right]){
