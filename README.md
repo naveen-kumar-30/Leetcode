@@ -9,6 +9,7 @@ Leetcode Solved Problem
 | [0002-two-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/naveen-kumar-30/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/naveen-kumar-30/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveen-kumar-30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -100,6 +101,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/naveen-kumar-30/Leetcode/tree/master/0125-valid-palindrome) |
@@ -114,6 +116,7 @@ Leetcode Solved Problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveen-kumar-30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -322,6 +325,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -329,6 +333,7 @@ Leetcode Solved Problem
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
