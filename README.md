@@ -7,6 +7,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0002-two-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/naveen-kumar-30/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -100,6 +101,7 @@ Leetcode Solved Problem
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0061-rotate-list) |
@@ -230,6 +232,7 @@ Leetcode Solved Problem
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0011-container-with-most-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/naveen-kumar-30/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2663-distribute-money-to-maximum-children](https://github.com/naveen-kumar-30/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
