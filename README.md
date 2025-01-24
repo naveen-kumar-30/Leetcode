@@ -16,6 +16,7 @@ Leetcode Solved Problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveen-kumar-30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/naveen-kumar-30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/naveen-kumar-30/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/naveen-kumar-30/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -89,6 +90,7 @@ Leetcode Solved Problem
 | [0012-integer-to-roman](https://github.com/naveen-kumar-30/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/naveen-kumar-30/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/naveen-kumar-30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/naveen-kumar-30/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveen-kumar-30/Leetcode/tree/master/0242-valid-anagram) |
@@ -199,6 +201,7 @@ Leetcode Solved Problem
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/naveen-kumar-30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveen-kumar-30/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
@@ -215,6 +218,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/naveen-kumar-30/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/naveen-kumar-30/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0948-sort-an-array) |
 ## Matrix
@@ -265,6 +269,7 @@ Leetcode Solved Problem
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/naveen-kumar-30/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
