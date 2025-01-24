@@ -15,13 +15,6 @@ public:
         else
             count--;
      }
-    count=0;
-     for(int i:nums){
-        if(candidate==i)
-            count++;
-        if(count>(nums.size()/2))
-            return i;
-     }
-     return -1;
+    return candidate;
     }
 };
