@@ -341,6 +341,7 @@ Leetcode Solved Problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -356,12 +357,14 @@ Leetcode Solved Problem
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naveen-kumar-30/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/naveen-kumar-30/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naveen-kumar-30/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/naveen-kumar-30/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -374,6 +377,7 @@ Leetcode Solved Problem
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naveen-kumar-30/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
