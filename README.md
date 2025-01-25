@@ -363,6 +363,7 @@ Leetcode Solved Problem
 | [0101-symmetric-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naveen-kumar-30/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/naveen-kumar-30/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -373,6 +374,7 @@ Leetcode Solved Problem
 | [0101-symmetric-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naveen-kumar-30/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/naveen-kumar-30/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -380,6 +382,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naveen-kumar-30/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/naveen-kumar-30/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -390,6 +393,7 @@ Leetcode Solved Problem
 | [0101-symmetric-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naveen-kumar-30/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
