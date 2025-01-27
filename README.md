@@ -31,6 +31,7 @@ Leetcode Solved Problem
 | [0496-next-greater-element-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/naveen-kumar-30/Leetcode/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/naveen-kumar-30/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/naveen-kumar-30/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -315,6 +316,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/naveen-kumar-30/Leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/naveen-kumar-30/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
