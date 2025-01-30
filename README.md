@@ -135,6 +135,7 @@ Leetcode Solved Problem
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/naveen-kumar-30/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveen-kumar-30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -150,6 +151,7 @@ Leetcode Solved Problem
 | [0007-reverse-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/naveen-kumar-30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/naveen-kumar-30/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/naveen-kumar-30/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -443,4 +445,8 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/naveen-kumar-30/Leetcode/tree/master/1558-course-schedule-iv) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/naveen-kumar-30/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
