@@ -29,6 +29,7 @@ Leetcode Solved Problem
 | [0485-max-consecutive-ones](https://github.com/naveen-kumar-30/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/naveen-kumar-30/Leetcode/tree/master/1127-last-stone-weight) |
@@ -242,6 +243,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/naveen-kumar-30/Leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/naveen-kumar-30/Leetcode/tree/master/1642-water-bottles) |
 | [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/naveen-kumar-30/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -355,6 +357,7 @@ Leetcode Solved Problem
 | [0144-binary-tree-preorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/naveen-kumar-30/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
