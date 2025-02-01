@@ -65,6 +65,7 @@ Leetcode Solved Problem
 | [3321-type-of-triangle](https://github.com/naveen-kumar-30/Leetcode/tree/master/3321-type-of-triangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/naveen-kumar-30/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3427-special-array-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/3429-special-array-i) |
 ## String
 |  |
 | ------- |
