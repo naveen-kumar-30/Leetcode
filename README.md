@@ -75,6 +75,7 @@ Leetcode Solved Problem
 | [0012-integer-to-roman](https://github.com/naveen-kumar-30/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/naveen-kumar-30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/naveen-kumar-30/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0344-reverse-string) |
@@ -142,6 +143,7 @@ Leetcode Solved Problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0053-maximum-subarray) |
@@ -451,6 +453,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0494-target-sum) |
 ## Linked List
 |  |
