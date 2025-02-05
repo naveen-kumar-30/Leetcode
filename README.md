@@ -290,6 +290,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveen-kumar-30/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/naveen-kumar-30/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/naveen-kumar-30/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/naveen-kumar-30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naveen-kumar-30/Leetcode/tree/master/0342-power-of-four) |
@@ -463,6 +464,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveen-kumar-30/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/naveen-kumar-30/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naveen-kumar-30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
