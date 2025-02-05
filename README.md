@@ -50,6 +50,7 @@ Leetcode Solved Problem
 | [1603-running-sum-of-1d-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/naveen-kumar-30/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/naveen-kumar-30/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/naveen-kumar-30/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-count-items-matching-a-rule](https://github.com/naveen-kumar-30/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
