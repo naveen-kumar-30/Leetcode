@@ -24,6 +24,7 @@ Leetcode Solved Problem
 | [0162-find-peak-element](https://github.com/naveen-kumar-30/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/naveen-kumar-30/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/naveen-kumar-30/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/naveen-kumar-30/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/naveen-kumar-30/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -261,6 +262,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/naveen-kumar-30/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/naveen-kumar-30/Leetcode/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/naveen-kumar-30/Leetcode/tree/master/0854-making-a-large-island) |
 | [1791-richest-customer-wealth](https://github.com/naveen-kumar-30/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/naveen-kumar-30/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -345,6 +347,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naveen-kumar-30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/naveen-kumar-30/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/naveen-kumar-30/Leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/naveen-kumar-30/Leetcode/tree/master/0854-making-a-large-island) |
 ## Heap (Priority Queue)
@@ -420,6 +423,7 @@ Leetcode Solved Problem
 | [0101-symmetric-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/naveen-kumar-30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/naveen-kumar-30/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naveen-kumar-30/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/naveen-kumar-30/Leetcode/tree/master/0684-redundant-connection) |
@@ -431,6 +435,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/naveen-kumar-30/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/naveen-kumar-30/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/naveen-kumar-30/Leetcode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naveen-kumar-30/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
