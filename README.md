@@ -76,6 +76,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/naveen-kumar-30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0022-generate-parentheses) |
@@ -106,6 +107,7 @@ Leetcode Solved Problem
 | ------- |
 | [0001-two-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/naveen-kumar-30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/naveen-kumar-30/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/naveen-kumar-30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -172,6 +174,7 @@ Leetcode Solved Problem
 | [0007-reverse-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/naveen-kumar-30/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/naveen-kumar-30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/naveen-kumar-30/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/naveen-kumar-30/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/0070-climbing-stairs) |
