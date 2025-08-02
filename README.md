@@ -56,6 +56,7 @@ Leetcode Solved Problem
 | [1899-count-items-matching-a-rule](https://github.com/naveen-kumar-30/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2215-finding-3-digit-even-numbers](https://github.com/naveen-kumar-30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/naveen-kumar-30/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -126,6 +127,7 @@ Leetcode Solved Problem
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/naveen-kumar-30/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2215-finding-3-digit-even-numbers](https://github.com/naveen-kumar-30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/naveen-kumar-30/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/naveen-kumar-30/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -254,6 +256,7 @@ Leetcode Solved Problem
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2215-finding-3-digit-even-numbers](https://github.com/naveen-kumar-30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/naveen-kumar-30/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/naveen-kumar-30/Leetcode/tree/master/3321-type-of-triangle) |
@@ -333,6 +336,7 @@ Leetcode Solved Problem
 | ------- |
 | [0204-count-primes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2083-three-divisors) |
+| [2215-finding-3-digit-even-numbers](https://github.com/naveen-kumar-30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
