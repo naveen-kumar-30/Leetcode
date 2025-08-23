@@ -17,6 +17,7 @@ Leetcode Solved Problem
 | [0066-plus-one](https://github.com/naveen-kumar-30/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/naveen-kumar-30/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/naveen-kumar-30/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/naveen-kumar-30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveen-kumar-30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/naveen-kumar-30/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -164,6 +165,7 @@ Leetcode Solved Problem
 | [0055-jump-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/naveen-kumar-30/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/naveen-kumar-30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveen-kumar-30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/naveen-kumar-30/Leetcode/tree/master/0152-maximum-product-subarray) |
