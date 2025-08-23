@@ -92,6 +92,7 @@ Leetcode Solved Problem
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/naveen-kumar-30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/naveen-kumar-30/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0812-rotate-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/naveen-kumar-30/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1524-string-matching-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -359,6 +360,7 @@ Leetcode Solved Problem
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/naveen-kumar-30/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Geometry
