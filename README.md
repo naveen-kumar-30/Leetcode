@@ -17,6 +17,7 @@ Leetcode Solved Problem
 | [0066-plus-one](https://github.com/naveen-kumar-30/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/naveen-kumar-30/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/naveen-kumar-30/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/naveen-kumar-30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveen-kumar-30/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -143,6 +144,7 @@ Leetcode Solved Problem
 | [0061-rotate-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/naveen-kumar-30/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/naveen-kumar-30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naveen-kumar-30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
@@ -251,6 +253,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/naveen-kumar-30/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/naveen-kumar-30/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naveen-kumar-30/Leetcode/tree/master/0242-valid-anagram) |
