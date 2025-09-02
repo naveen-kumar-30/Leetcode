@@ -8,6 +8,7 @@ Leetcode Solved Problem
 | ------- |
 | [0002-two-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/naveen-kumar-30/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -144,6 +145,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/naveen-kumar-30/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/naveen-kumar-30/Leetcode/tree/master/0061-rotate-list) |
@@ -259,6 +261,7 @@ Leetcode Solved Problem
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/naveen-kumar-30/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/naveen-kumar-30/Leetcode/tree/master/0169-majority-element) |
