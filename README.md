@@ -96,6 +96,7 @@ Leetcode Solved Problem
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/naveen-kumar-30/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/naveen-kumar-30/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/naveen-kumar-30/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/naveen-kumar-30/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -188,6 +189,7 @@ Leetcode Solved Problem
 | [0198-house-robber](https://github.com/naveen-kumar-30/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/naveen-kumar-30/Leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/naveen-kumar-30/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
