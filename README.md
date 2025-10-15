@@ -31,6 +31,7 @@ Leetcode Solved Problem
 | [0200-number-of-islands](https://github.com/naveen-kumar-30/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/naveen-kumar-30/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/naveen-kumar-30/Leetcode/tree/master/0283-move-zeroes) |
@@ -133,6 +134,7 @@ Leetcode Solved Problem
 | [0169-majority-element](https://github.com/naveen-kumar-30/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/naveen-kumar-30/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/naveen-kumar-30/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -411,6 +413,7 @@ Leetcode Solved Problem
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveen-kumar-30/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/naveen-kumar-30/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1321-get-equal-substrings-within-budget](https://github.com/naveen-kumar-30/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
