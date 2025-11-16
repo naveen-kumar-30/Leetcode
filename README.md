@@ -105,6 +105,7 @@ Leetcode Solved Problem
 | [1321-get-equal-substrings-within-budget](https://github.com/naveen-kumar-30/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1524-string-matching-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/naveen-kumar-30/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/naveen-kumar-30/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/naveen-kumar-30/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/naveen-kumar-30/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -231,6 +232,7 @@ Leetcode Solved Problem
 | [1610-xor-operation-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/naveen-kumar-30/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/naveen-kumar-30/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/naveen-kumar-30/Leetcode/tree/master/1642-water-bottles) |
 | [2083-three-divisors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/naveen-kumar-30/Leetcode/tree/master/2507-number-of-common-factors) |
