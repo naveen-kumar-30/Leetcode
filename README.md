@@ -78,6 +78,7 @@ Leetcode Solved Problem
 | [3415-check-if-grid-satisfies-conditions](https://github.com/naveen-kumar-30/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3427-special-array-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/3429-special-array-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/naveen-kumar-30/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Leetcode Solved Problem
 | [2857-total-distance-traveled](https://github.com/naveen-kumar-30/Leetcode/tree/master/2857-total-distance-traveled) |
 | [3321-type-of-triangle](https://github.com/naveen-kumar-30/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/3371-harshad-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/naveen-kumar-30/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
