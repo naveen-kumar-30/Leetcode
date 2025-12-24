@@ -73,6 +73,7 @@ Leetcode Solved Problem
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/naveen-kumar-30/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/naveen-kumar-30/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/naveen-kumar-30/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3074-apple-redistribution-into-boxes](https://github.com/naveen-kumar-30/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-find-words-containing-character](https://github.com/naveen-kumar-30/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/naveen-kumar-30/Leetcode/tree/master/3321-type-of-triangle) |
@@ -296,6 +297,7 @@ Leetcode Solved Problem
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/naveen-kumar-30/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/naveen-kumar-30/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3074-apple-redistribution-into-boxes](https://github.com/naveen-kumar-30/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/naveen-kumar-30/Leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/naveen-kumar-30/Leetcode/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
@@ -338,6 +340,7 @@ Leetcode Solved Problem
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/naveen-kumar-30/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2663-distribute-money-to-maximum-children](https://github.com/naveen-kumar-30/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/naveen-kumar-30/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Recursion
 |  |
 | ------- |
