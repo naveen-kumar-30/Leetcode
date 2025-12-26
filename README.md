@@ -120,6 +120,7 @@ Leetcode Solved Problem
 | [2232-adding-spaces-to-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2886-faulty-keyboard](https://github.com/naveen-kumar-30/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/naveen-kumar-30/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/naveen-kumar-30/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -367,6 +368,7 @@ Leetcode Solved Problem
 | [1603-running-sum-of-1d-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/naveen-kumar-30/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3427-special-array-ii](https://github.com/naveen-kumar-30/Leetcode/tree/master/3427-special-array-ii) |
 ## Counting
 |  |
