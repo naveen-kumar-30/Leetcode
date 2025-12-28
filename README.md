@@ -48,6 +48,7 @@ Leetcode Solved Problem
 | [1127-last-stone-weight](https://github.com/naveen-kumar-30/Leetcode/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/naveen-kumar-30/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/naveen-kumar-30/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naveen-kumar-30/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/naveen-kumar-30/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -263,6 +264,7 @@ Leetcode Solved Problem
 | [0287-find-the-duplicate-number](https://github.com/naveen-kumar-30/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/naveen-kumar-30/Leetcode/tree/master/0441-arranging-coins) |
 | [1321-get-equal-substrings-within-budget](https://github.com/naveen-kumar-30/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naveen-kumar-30/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/naveen-kumar-30/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/naveen-kumar-30/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -320,6 +322,7 @@ Leetcode Solved Problem
 | [0079-word-search](https://github.com/naveen-kumar-30/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/naveen-kumar-30/Leetcode/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/naveen-kumar-30/Leetcode/tree/master/0854-making-a-large-island) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/naveen-kumar-30/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/naveen-kumar-30/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/naveen-kumar-30/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Simulation
