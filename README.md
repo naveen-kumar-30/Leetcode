@@ -106,6 +106,7 @@ Leetcode Solved Problem
 | [0424-longest-repeating-character-replacement](https://github.com/naveen-kumar-30/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/naveen-kumar-30/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/naveen-kumar-30/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0756-pyramid-transition-matrix](https://github.com/naveen-kumar-30/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/naveen-kumar-30/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -149,6 +150,7 @@ Leetcode Solved Problem
 | [0387-first-unique-character-in-a-string](https://github.com/naveen-kumar-30/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/naveen-kumar-30/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/naveen-kumar-30/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0756-pyramid-transition-matrix](https://github.com/naveen-kumar-30/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1500-check-if-n-and-its-double-exist](https://github.com/naveen-kumar-30/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/naveen-kumar-30/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/naveen-kumar-30/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -281,6 +283,7 @@ Leetcode Solved Problem
 | [0461-hamming-distance](https://github.com/naveen-kumar-30/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/naveen-kumar-30/Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/naveen-kumar-30/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0756-pyramid-transition-matrix](https://github.com/naveen-kumar-30/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/naveen-kumar-30/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/naveen-kumar-30/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/naveen-kumar-30/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -540,6 +543,7 @@ Leetcode Solved Problem
 | [0022-generate-parentheses](https://github.com/naveen-kumar-30/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/naveen-kumar-30/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/naveen-kumar-30/Leetcode/tree/master/0494-target-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/naveen-kumar-30/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Linked List
 |  |
 | ------- |
